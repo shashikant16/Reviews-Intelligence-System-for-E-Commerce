@@ -1,25 +1,26 @@
 # Reviews-Intelligence-System for E-Commerce
-This repo contains the code to perform a 360 degree review analysis using.
+This repo contains the code to perform a 360-degree review analysis using.
 
-•	Key phrase extraction from User Reviews  
+•	Keyphrase extraction from User Reviews  
 •	Sentiment Analysis on Reviews Using Deep learning technique.  
 •	Review Clustering with ELMO Embedding.  
 •	Review Analysis and visualization.  
 
-The whole porcess will helpful to understand the bussiness logic and bussiness understanding.
+The whole process will help to understand the business logic and business understanding.
 
 
 # Summary of the project
 
-Key Phrase Exytraction using Grmmer rule  
-Deep Learning Based Sentiment classifier  
+Key Phrase Extraction using Grammer rule  
+Deep Learning-Based Sentiment classifier  
 ELMO embedding based clustering.  
 
 # Usage
-Noun_Phrase_Extraction.py - Creats key phrases from reviews.  
-Unigram_TFIDF.py - It Generats the Top Unigram, top TFIDF Frequency count wise.  
-Bigram_Trigram_TFIDF.py - It Generats the Top Bigram_Trigram , top Frequency count wise.  
+Noun_Phrase_Extraction.py - Creates key phrases from reviews.  
+Unigram_TFIDF.py - It Generates the Top Unigram, top TFIDF Frequency count, wise.  
+Bigram_Trigram_TFIDF.py - It Generates the Top Bigram_Trigram, top Frequency count, wise.  
 Collocation_Function.py - Generating for Collocation of words.  
-NER_decathlon_train_test.py - Sentiment Classifier usnig Conditional Random Field (CRF). 
+Organized_code_v1.py -  A-Class Function with all the functionalities.
+NER_train_test.py - Sentiment Classifier using Conditional Random Field (CRF). 
 User Input KWD.ipynb- this is used for where the keywords for a particular word Is found.  
-User Input KWD Chart.ipynb-  It this is used for where the positive neg neutral classes are plotted.
+User Input KWD Chart.ipynb-  this is used for where the positive neg neutral classes are plotted.
