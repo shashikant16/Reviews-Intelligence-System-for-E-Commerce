@@ -1,6 +1,5 @@
 # Reviews-Intelligence-System for E-Commerce
-This repo contains the code to perform a 360-degree review analysis using.
-
+This repo contains the code to perform a 360-degree review analysis using:-  
 •	Keyphrase extraction from User Reviews  
 •	Sentiment Analysis on Reviews Using Deep learning technique.  
 •	Review Clustering with ELMO Embedding.  
@@ -9,9 +8,9 @@ This repo contains the code to perform a 360-degree review analysis using.
 
 # Summary of the project
 
-Key Phrase Extraction using Grammer rule  
-Deep Learning-Based Sentiment classifier  
-ELMO embedding based clustering.  
+Key Phrase Extraction using Grammer rule. 
+Deep Learning-Based Sentiment classifier. 
+ELMO embedding and clustering.  
 
 # Usage
 `Noun_Phrase_Extraction.py` - Creates key phrases from reviews.  
