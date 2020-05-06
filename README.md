@@ -6,8 +6,6 @@ This repo contains the code to perform a 360-degree review analysis using.
 •	Review Clustering with ELMO Embedding.  
 •	Review Analysis and visualization.  
 
-The whole process will help to understand the business logic and business understanding.
-
 
 # Summary of the project
 
@@ -22,12 +20,10 @@ ELMO embedding based clustering.
 `Collocation_Function.py` - Generating for Collocation of words.  
 `Organized_code_v1.py` -  A-Class Function with all the functionalities.
 `NER_train_test.py` - Sentiment Classifier using Conditional Random Field (CRF).  
-`Review_Clustering_scatterplots.py` - In this Code, our idea is to cluster the similar noun phrases together.
-At first we are importing the noun phrases corpus load it and doing a count vectorizer to convert text to numeric and then clustering it using K means Clustering alogorithm with a k value of 5.
-After Clustering we have the clustered results, now we need to plot similar clustered reviews together with same colour.
-So we are using TSNE to convert the results to x-axis and y-axis corodinates. Now sine we have corodinates we can cluster them in a graph and save the results in html format.
-To create Interactive html plot we are using mpld3 package.
+`Review_Clustering_scatterplots.py` - This Code, for clustering the similar noun phrases together, after clustered results, it plots similar clustered reviews together with same colour uning TSNE to convert the results to x-axis and y-axis corodinates.
 
 `User Input KWD.ipynb` - this is used for where the keywords for a particular word Are found.  
 `User Input KWD Chart.ipynb` -  this is used for where the positive neg neutral classes are plotted.  
+
+
 Flow is the user is prompted to enter a word and that word is passed to User Input Kwd file for finding all the words related to that input and then they are all passed to Chart generation for finding the pos neg neu classes and the chart is returned.
