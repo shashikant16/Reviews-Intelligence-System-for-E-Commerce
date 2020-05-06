@@ -20,4 +20,6 @@ Noun_Phrase_Extraction.py - Creats key phrases from reviews.
 Unigram_TFIDF.py - It Generats the Top Unigram, top TFIDF Frequency count wise.  
 Bigram_Trigram_TFIDF.py - It Generats the Top Bigram_Trigram , top Frequency count wise.  
 Collocation_Function.py - Generating for Collocation of words.  
-NER_decathlon_train_test.py - Sentiment Classifier usnig Conditional Random Field (CRF).  
+NER_decathlon_train_test.py - Sentiment Classifier usnig Conditional Random Field (CRF). 
+User Input KWD.ipynb- this is used for where the keywords for a particular word Is found.  
+User Input KWD Chart.ipynb-  It this is used for where the positive neg neutral classes are plotted.
