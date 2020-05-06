@@ -21,9 +21,10 @@ ELMO embedding based clustering.
 `Organized_code_v1.py` -  A-Class Function with all the functionalities.
 `NER_train_test.py` - Sentiment Classifier using Conditional Random Field (CRF).  
 `Review_Clustering_scatterplots.py` - This Code, for clustering the similar noun phrases together, after clustered results, it plots similar clustered reviews together with same colour uning TSNE to convert the results to x-axis and y-axis corodinates.
-
+`Elmo_Semantic_Embedding.py`  - For Sementic based keyword embedding.  
 `User Input KWD.ipynb` - this is used for where the keywords for a particular word Are found.  
 `User Input KWD Chart.ipynb` -  this is used for where the positive neg neutral classes are plotted.  
+
 
 
 Flow is the user is prompted to enter a word and that word is passed to User Input Kwd file for finding all the words related to that input and then they are all passed to Chart generation for finding the pos neg neu classes and the chart is returned.
