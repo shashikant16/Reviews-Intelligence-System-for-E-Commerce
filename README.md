@@ -16,7 +16,7 @@ Deep Learning Based Sentiment classifier
 ELMO embedding based clustering.
 
 # Usage
-Noun_Phrase_Extraction.py - Creats key phrases from reviews.
+Noun_Phrase_Extraction.py - Creats key phrases from reviews.\n
 Unigram_TFIDF.py - It Generats the Top Unigram, top TFIDF Frequency count wise.
 Bigram_Trigram_TFIDF.py - It Generats the Top Bigram_Trigram , top Frequency count wise.
 Collocation_Function.py - Generating for Collocation of words.
