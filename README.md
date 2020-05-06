@@ -18,7 +18,7 @@ ELMO embedding based clustering.
 `Unigram_TFIDF.py` - It Generates the Top Unigram, top TFIDF Frequency count, wise.  
 `Bigram_Trigram_TFIDF.py` - It Generates the Top Bigram_Trigram, top Frequency count, wise.  
 `Collocation_Function.py` - Generating for Collocation of words.  
-`Organized_code_v1.py` -  A-Class Function with all the functionalities.
+`Organized_code_v1.py` -  A-Class Function with all the functionalities.  
 `NER_train_test.py` - Sentiment Classifier using Conditional Random Field (CRF).  
 `Review_Clustering_scatterplots.py` - This Code, for clustering the similar noun phrases together, after clustered results, it plots similar clustered reviews together with same colour uning TSNE to convert the results to x-axis and y-axis corodinates.
 `Elmo_Semantic_Embedding.py`  - For Sementic based keyword embedding.  
