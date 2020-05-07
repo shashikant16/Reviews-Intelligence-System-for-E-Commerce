@@ -3,8 +3,7 @@ This repo contains the code to perform a 360-degree review analysis using:-
 •	Keyphrase extraction from User Reviews  
 •	Sentiment Analysis on Reviews Using Deep learning technique.  
 •	Review Clustering with ELMO Embedding.  
-•	Review Analysis and visualization.  
-⋅⋅* Unordered sub-list. 
+•	Review Analysis and visualization.   
 
 # Summary of the project
 
