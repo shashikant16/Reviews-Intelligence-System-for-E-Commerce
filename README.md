@@ -22,7 +22,7 @@ ELMO embedding and clustering.
 •	`Elmo_Semantic_Embedding.py`  - For Sementic based keyword embedding.  
 •	`User Input KWD.ipynb` - This is used for where the keywords for a particular word Are found.  
 •	`User Input KWD Chart.ipynb` -  This is used for where the positive neg neutral classes are plotted.  
-•	`Review Topic Model_V2.ipynb` -  This is file for generating the Topics form each of the Review rows.
+•	`Review Topic Model_V2.ipynb` -  This is file for generating the topics form each of the review rows.
 
 
 
